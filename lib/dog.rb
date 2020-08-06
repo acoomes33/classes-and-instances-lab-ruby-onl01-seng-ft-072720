@@ -1,5 +1,7 @@
 class Dog 
-  snoopy = Dog.new 
+  
+end
+
+snoopy = Dog.new 
 fido = Dog.new 
 lassie = Dog.new 
-end
